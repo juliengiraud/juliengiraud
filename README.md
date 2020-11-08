@@ -1,4 +1,4 @@
-# Julien Giraud, un développeur passioné ;)
+# Julien Giraud, un développeur passionné ;)
 
 ☕ Développeur Full Stack chez Finalgo en alternance (Java Spring Hibernate / MySQL / Angular)
 

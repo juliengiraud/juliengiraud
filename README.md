@@ -2,7 +2,7 @@
 
 ☕ Développeur Full Stack chez Finalgo en alternance (Java Spring Hibernate / MySQL / Angular)
 
-⚡ Étudiant en première année de Master informatique à Lyon 1
+⚡ Étudiant en dernière année de Master informatique à Lyon 1
 
 [![GitHub Julien Giraud](https://img.shields.io/github/followers/juliengiraud?label=GitHub&style=social)](https://github.com/juliengiraud) [![LinkedIn](https://img.shields.io/badge/-Julien%20Giraud-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/julien-giraud)](https://www.linkedin.com/in/julien-giraud)
 

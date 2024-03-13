@@ -1,6 +1,6 @@
 # Julien Giraud, dev passionné⋅e d'algorithmique et d'informatique ;)
 
-☕ Def Full Stack chez MAX DS Lyon (Java Spring Hibernate / MySQL / Angular / TypeScript)
+☕ Dev Full Stack chez MAX DS Lyon (Java Spring Hibernate / MySQL / Angular / TypeScript)
 
 ⚡ Vacataire à l'IUT Lyon 1 en algorithmique et Java sur 2022-2023
 
